@@ -2,11 +2,12 @@
 
 ## Current Status
 This document is currently in "Draft Mode." 
-Hi, Naza, is this good enough?
+
 
 ## Core Mission
 To empower Nigerian tradespeople through community-backed micro-funding.
 
+Yes, that is BuildBridge, is that correct @Naza?
 ## Executive Review Section
 [WAITING FOR LEADER INPUT...]
 
